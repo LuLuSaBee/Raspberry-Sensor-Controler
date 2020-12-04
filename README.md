@@ -5,7 +5,7 @@
 
 ### Professor : [李仕雄(Steven Lee)](https://ic.nkust.edu.tw/p/404-1075-18941.php?Lang=zh-tw)
 
-### Use
+## How to use
 #### To use DHT11
 ```command line
 sudo pip3 install dht11
